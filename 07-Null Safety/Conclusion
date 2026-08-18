@@ -1,0 +1,4 @@
+En conclusión, el Null Safety es una característica importante de Kotlin que ayuda a prevenir errores
+causados por valores null. Mediante el uso de tipos anulables, el operador ? y otras herramientas del lenguaje, Kotlin 
+permite controlar de manera más segura cuándo una variable puede no contener ningún valor. Esto ayuda a crear programas más 
+confiables y reduce la posibilidad de errores durante la ejecución.
